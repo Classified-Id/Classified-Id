@@ -1,5 +1,3 @@
-# Привет! 👋
-
 Мой nickname [Classified](https://github.com/Classified-Id), я Frontend-Focused Fullstack Developer
 
 ## 📝 О себе
